@@ -19,6 +19,19 @@ Whether you've built a simple calculator, a to-do list, or a weather app, your c
 Hacktoberfest is a month-long celebration of open-source software run by DigitalOcean. It's open to everyone in our global community. Whether you’re a developer, a student learning to code, an event host, or a company of any size, you can help drive the growth of open-source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 [Click Here for Hacktoberfest Information](https://hacktoberfest.com/)
 
+
+
+### Installation Steps
+
+1) Clone the repo using git clone git@github.com:maanasaprathap/open-source-gdg-workshop-maanasa.git
+or
+git clone https://github.com/maanasaprathap/open-source-gdg-workshop-maanasa.git
+
+2) cd (select directory)
+3) npm install
+4) npm start / npm run dev
+   
+
 ### Process of Contribution
 
 1._Fork_ : Fork this GitHub Repo to your own github account
