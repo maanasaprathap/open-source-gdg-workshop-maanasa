@@ -25,7 +25,7 @@ Hacktoberfest is a month-long celebration of open-source software run by Digital
 2._Clone_ : Clone the forked repo (the repo present on your account) to your local machine (reminder : make sure you are in the directory where you want the repository stored).
 
 ```terminal
-git clone https://github.com/ianshulx/React-projects-for-beginners
+git clone #URL of your project
 ```
 
 3.Create a _new Branch_
@@ -162,7 +162,7 @@ Hacktoberfest is a month-long celebration of open-source software run by Digital
 2._Clone_ : Clone the forked repo (the repo present on your account) to your local machine (reminder : make sure you are in the directory where you want the repository stored).
 
 ```terminal
-git clone https://github.com/ianshulx/React-projects-for-beginners
+git clone #URL for your project
 ```
 
 3.Create a _new Branch_
@@ -299,7 +299,7 @@ Hacktoberfest is a month-long celebration of open-source software run by Digital
 2._Clone_ : Clone the forked repo (the repo present on your account) to your local machine (reminder : make sure you are in the directory where you want the repository stored).
 
 ```terminal
-git clone https://github.com/ianshulx/React-projects-for-beginners
+git clone #URL of your project
 ```
 
 3.Create a _new Branch_
